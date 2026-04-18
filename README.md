@@ -1,6 +1,6 @@
 ## 👋 Hey, I'm Murtaza
 
-Full-Stack Developer • React • Next.js • Node.js • Exploring DevOps
+Full-Stack Developer | Building Scalable Web Applications
 
 ---
 
