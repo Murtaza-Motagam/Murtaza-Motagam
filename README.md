@@ -7,11 +7,6 @@ Full-Stack Developer | Building Scalable Web Applications
 ## 🚀 Developer Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murtaza-motagam&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murtaza-motagam&layout=compact&theme=github_dark&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=murtaza-motagam&theme=github-dark&hide_border=true" height="160"/>
 </p>
 
