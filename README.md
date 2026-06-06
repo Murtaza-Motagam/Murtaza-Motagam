@@ -48,6 +48,24 @@ const murtaza: SoftwareEngineer = {
 
 ---
 
+
+### 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Murtaza-Motagam&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats" />
+
+</div>
+
+### 📈 Contribution & Commit Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtaza-Motagam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
+
+</div>
+
+
 ## 🛠️ Tech Stack
 
 ### Languages
@@ -74,26 +92,6 @@ const murtaza: SoftwareEngineer = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Murtaza-Motagam&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats" />
-
-</div>
-
-### 📈 Contribution & Commit Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtaza-Motagam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
-
-</div>
-
----
 
 ---
 
