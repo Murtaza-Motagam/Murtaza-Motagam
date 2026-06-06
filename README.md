@@ -1,61 +1,145 @@
-## 👋 Hey, I'm Murtaza
+<!--
+═══════════════════════════════════════════════════════════════════
+  Profile README for github.com/Murtaza-Motagam
+  (Project repo links at the bottom are placeholders — fill when ready)
+═══════════════════════════════════════════════════════════════════
+-->
 
-Full-Stack Developer | Building Scalable Web Applications
+<!-- ====================== TERMINAL HEADER ====================== -->
+<div align="center">
+
+<!-- custom designed banner (lives in /assets) -->
+<img src="./assets/banner.svg" width="100%" alt="Murtaza Motagam — Software Engineer" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Murtaza-Motagam&label=Profile%20views&color=00b894&style=flat-square" alt="profile views" />
+
+</div>
+
+</div>
 
 ---
 
-## 🚀 Developer Insights
+## 👋 About Me
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=murtaza-motagam&theme=github-dark&hide_border=true" height="160"/>
-</p>
+```ts
+const murtaza: SoftwareEngineer = {
+  role: "Frontend Software Engineer",
+  company: "Refrens",
+  focus: ["UI/UX", "Performance", "Accessibility", "API Integration"],
+  stack: {
+    web:     ["React", "Next.js", "TypeScript", "styled-components"],
+    mobile:  ["React Native", "Expo"],
+    backend: ["FeathersJS", "Node.js", "MongoDB"],
+    tooling: ["Bun", "GitHub CLI", "Git"],
+  },
+  currentlyExploring: ["CSS Container Queries", "Cross-platform architecture"],
+  philosophy: "Clean code, sharp UX, and details that ship.",
+};
+```
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murtaza-motagam&theme=github-dark&hide_border=true"/>
-</p>
+- 🔭 I build **production-grade web & mobile apps** — from pixel-perfect UI to the APIs that power them.
+- 🎨 Deep focus on **UI/UX, accessibility, and front-end performance**.
+- ⚙️ Comfortable across the stack: **React / Next.js** on the front, **FeathersJS + MongoDB** on the back.
+- 📱 Cross-platform mobile with **React Native + Expo**.
+- 🌱 Currently sharpening **modern CSS** (container queries) and scalable component architecture.
+- 💬 Ask me about **React, Next.js, styled-components, or debugging gnarly CSS**.
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:**  
-JavaScript • TypeScript • Python • PHP  
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks:**  
-React • Next.js • Express • FeathersJS  
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-**Databases:**  
-MongoDB • Oracle SQL  
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
-**Tools:**  
-Git • GitHub • Docker • Linux • Postman • VS Code  
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FeathersJS](https://img.shields.io/badge/Feathers-2C2C2C?style=for-the-badge&logo=feathersjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tooling
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Murtaza-Motagam&theme=tokyonight&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="streak stats" />
+
+</div>
+
+### 📈 Contribution & Commit Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Murtaza-Motagam&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=ffffff&area=true" alt="activity graph" />
+
+</div>
+
+---
 
 ---
 
 ## 🚀 Featured Projects
 
-🏦 **Elevate Financials**  
-Modern banking UI with secure and responsive financial dashboard.
+<!-- Duplicate a block per project. Add repo links once your repos are public. -->
 
-✍️ **Blogin**  
-Full-featured blog platform for creating and managing articles.
+<div align="center">
 
-🛒 **Shopper Stop**  
-E-commerce application with smooth shopping and cart experience.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🌦️ **Weather Mania**  
-Real-time weather tracking with live location-based updates.
+### 🌐 Web Platform
+A modern, high-performance web application built with **Next.js + React + TypeScript**, styled with **styled-components** and backed by a **FeathersJS / MongoDB** API.
+
+`Next.js` `React` `TypeScript` `FeathersJS` `MongoDB`
+
+<!-- [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/Murtaza-Motagam/REPO) -->
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 Cross-Platform Mobile App
+A cross-platform mobile experience built with **React Native + Expo**, sharing logic with the web stack and consuming the same backend services.
+
+`React Native` `Expo` `TypeScript` `Node.js`
+
+<!-- [![Repo](https://img.shields.io/badge/View_Repo-0D1117?style=for-the-badge&logo=github)](https://github.com/Murtaza-Motagam/REPO) -->
+
+</td>
+</tr>
+</table>
+
+</div>
+
+> 💡 **Tip:** Pin your best repositories on your profile (GitHub → your profile → *Customize your pins*) so they show right under this README.
 
 ---
 
-## 📊 Current Focus
+<div align="center">
 
-⚙️ DevOps — CI/CD, Docker, automation  
-🏗️ Backend Systems — scalability & performance  
-📦 Microservices — distributed system design  
+```bash
+murtaza@github:~$ exit
+> Thanks for stopping by — check out the pinned repos ⭐
+```
 
----
-
-## ⚡ Footer
-
-_Building systems that scale ⚡_
+</div>
