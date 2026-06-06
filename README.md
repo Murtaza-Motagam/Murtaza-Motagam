@@ -27,24 +27,24 @@
 const murtaza: SoftwareEngineer = {
   role: "Frontend Software Engineer",
   company: "Refrens",
-  focus: ["UI/UX", "Performance", "Accessibility", "API Integration"],
+  focus: ["UI/UX", "Performance", "Accessibility", "State Management", "API Integration"],
   stack: {
     web:     ["React", "Next.js", "TypeScript", "styled-components"],
     mobile:  ["React Native", "Expo"],
-    backend: ["FeathersJS", "Node.js", "MongoDB"],
-    tooling: ["Bun", "GitHub CLI", "Git"],
+    backend: ["Node.js", "FeathersJS", "MongoDB"],
+    tooling: ["GitHub", "Git", "Npm"]
   },
-  currentlyExploring: ["CSS Container Queries", "Cross-platform architecture"],
   philosophy: "Clean code, sharp UX, and details that ship.",
 };
 ```
 
-- 🔭 I build **production-grade web & mobile apps** — from pixel-perfect UI to the APIs that power them.
-- 🎨 Deep focus on **UI/UX, accessibility, and front-end performance**.
-- ⚙️ Comfortable across the stack: **React / Next.js** on the front, **FeathersJS + MongoDB** on the back.
-- 📱 Cross-platform mobile with **React Native + Expo**.
-- 🌱 Currently sharpening **modern CSS** (container queries) and scalable component architecture.
-- 💬 Ask me about **React, Next.js, styled-components, or debugging gnarly CSS**.
+- 🔭 Production-grade web & mobile apps — interfaces to APIs.
+- ⚛️ Advanced React — Hooks, custom hooks, memoization, context, refs, taming re-renders & stale closures.
+- 🗂️ State management — Context API, reducers, predictable data flow.
+- ⚙️ Full-stack range: React / Next.js + FeathersJS / MongoDB.
+- 📱 React Native + Expo.
+- 🌿 Version control — Git & GitHub CLI, branching, PR review workflows, CI-friendly habits.
+- 💬 Ask me about React, Next.js, performance optimization, or debugging.
 
 ---
 
@@ -71,7 +71,6 @@ const murtaza: SoftwareEngineer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tooling
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
